@@ -1,6 +1,6 @@
 # script-projet-2
 
-les deux scripts ajoutent et et suppriment des utilisateurs par le biais d'un terminal en shell et powershell.
+les deux scripts ajoutent et suppriment des utilisateurs par le biais d'un terminal en shell et powershell.
 
 Pour le Script shell
 
