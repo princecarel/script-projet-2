@@ -35,3 +35,4 @@ if ($action -eq "1") {
 } else {
     Write-Host "Choix invalide. Veuillez exécuter le script à nouveau et choisir 1 ou 2."
 }
+
